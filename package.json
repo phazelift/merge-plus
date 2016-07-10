@@ -1,0 +1,28 @@
+{
+  "name": "merge-plus",
+  "version": "0.0.1",
+  "description": "A highly flexible, more robust, non-destructive deep object merge",
+  "main": "merge-plus.min.js",
+  "dependencies" : {
+	 "types.js"	: "latest",
+	 "deepmerge": "^0.2.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phazelift/merge-plus"
+  },
+  "keywords": [
+    "map",
+    "array",
+    "object"
+  ],
+  "author": "Dennis Raymondo van der Sluis <phazelift@gmail.com> (https://github.com/phazelift/)",
+  "license": "GPL-3",
+  "bugs": {
+    "url": "https://github.com/phazelift/merge-plus/issues"
+  },
+  "homepage": "https://github.com/phazelift/merge-plus"
+}
