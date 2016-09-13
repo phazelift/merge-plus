@@ -1,6 +1,6 @@
 {
   "name": "merge-plus",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A highly flexible, more robust, non-destructive deep object merge",
   "main": "merge-plus.min.js",
   "dependencies" : {
@@ -20,7 +20,7 @@
     "object"
   ],
   "author": "Dennis Raymondo van der Sluis <phazelift@gmail.com> (https://github.com/phazelift/)",
-  "license": "GPL-3",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/phazelift/merge-plus/issues"
   },

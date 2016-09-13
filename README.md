@@ -32,3 +32,7 @@ console.log( test );
 //	  e: 1,
 //	  f: 4 }
 ```
+
+###license
+
+MIT
